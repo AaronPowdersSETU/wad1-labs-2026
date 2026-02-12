@@ -1,6 +1,6 @@
 'use strict';
 import logger from "../utils/logger.js";
-import appStore from "../models/app-info.js";
+import appStore from "../models/app-store.js";
 
 const start = {
 
