@@ -12,7 +12,7 @@ import logger from "./utils/logger.js";
 router.get('/', start.createView);
 router.get('/dashboard', dashboard.createView);
 
-router.get('/', about,createView);
+router.get('/', about.createView);
 
 router.get('/error', (request, response) => response.status(404).end('Page not found.'));
 

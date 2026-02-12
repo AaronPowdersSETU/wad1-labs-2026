@@ -7,7 +7,6 @@ const empStore = {
 
   store: new JsonStore('./models/employee.json', { employee: {} }),
   collection: 'employee',
-  array: 'creators',
 
   getAppInfo() {
     return this.store.findAll(this.collection);
