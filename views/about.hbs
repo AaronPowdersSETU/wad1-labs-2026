@@ -1,20 +1,24 @@
-<div class="ui centered card">
+
+{{> menu id="about"}}
+
+<section class="ui left aligned middle aligned segment"><div class="ui centered card">
   <div class="image">
-    <img src = "/stevie.jpg" class = "about image">
+    <img src = "{{emp.image}}" class = "about image">
   </div>
   <div class="content">
-    <a class="header"> </a>
+    <a class="header">{{emp.fullname}} </a>
     <div class="meta">
-      <span class="date">Joined in  </span>
+      <span class="date">Joined in 2026  </span>
     </div>
     <div class="description">
-        is an   living in  .
+        is an employee living in Ireland .
     </div>
   </div>
   <div class="extra content">
     <a>
       <i class="user icon"></i>
-        contacts
+        contacts John, Ana, Bob.
     </a>
   </div>
 </div>
+</section>
