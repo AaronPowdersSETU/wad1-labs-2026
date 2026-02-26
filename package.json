@@ -21,6 +21,14 @@
     "winston": "^3.19.0"
   },
   "devDependencies": {
-    "nodemon": "^3.1.11"
-  }
+    "nodemon": "^3.1.14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronPowdersSETU/wad1-labs-2026.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AaronPowdersSETU/wad1-labs-2026/issues"
+  },
+  "homepage": "https://github.com/AaronPowdersSETU/wad1-labs-2026#readme"
 }
