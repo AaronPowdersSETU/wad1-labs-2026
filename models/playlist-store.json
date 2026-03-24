@@ -36,7 +36,23 @@
       "id": "ce3a6384-18a0-40a0-aa7d-de3cd7ddb4cb",
       "title": "Playlist 3",
       "date": "2026-03-24T15:29:54.823Z",
-      "songs": []
+      "songs": [
+        {
+          "id": "0023807c-caec-42f8-9e4b-fa88cb4b422b",
+          "title": "song",
+          "artist": "1"
+        },
+        {
+          "id": "0272ffa7-3479-4da0-9d05-053b338d191f",
+          "title": "song",
+          "artist": "2"
+        },
+        {
+          "id": "ea2b09a7-8764-4633-98c0-9f6d0a76c6f5",
+          "title": "song",
+          "artist": "3"
+        }
+      ]
     },
     {
       "id": "2858388e-1f1d-4378-a494-c33aea19cd5e",
