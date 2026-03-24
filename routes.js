@@ -13,6 +13,7 @@ router.get('/', start.createView);
 router.get('/dashboard', dashboard.createView);
 router.get('/about', about.createView);
 router.get('/playlist/:id', playlist.createView);
+router.get('/playlist/:id/deletesong/:songid', playlist.deleteSong);
 
 router.get('/error', (request, response) => response.status(404).end('Page not found.'));
 
