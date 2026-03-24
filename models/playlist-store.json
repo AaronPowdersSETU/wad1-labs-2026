@@ -1,51 +1,9 @@
 {
   "playlistCollection": [
     {
-      "id": "01",
-      "title": "Beethoven Sonatas",
-      "rating": 3,
-      "songs": [
-        {
-          "id": "04",
-          "title": "Piano Sonata No. 3",
-          "artist": "Beethoven"
-        },
-        {
-          "id": "05",
-          "title": "Piano Sonata No. 7",
-          "artist": "Beethoven"
-        },
-        {
-          "id": "06",
-          "title": "Piano Sonata No. 10",
-          "artist": "Beethoven"
-        }
-      ]
-    },
-    {
-      "id": "02",
-      "title": "Beethoven Concertos",
-      "songs": [
-        {
-          "id": "07",
-          "title": "Piano Concerto No. 0",
-          "artist": "Beethoven"
-        },
-        {
-          "id": "08",
-          "title": "Piano Concerto No. 4",
-          "artist": "Beethoven"
-        },
-        {
-          "id": "09",
-          "title": "Piano Concerto No. 6",
-          "artist": "Beethoven"
-        }
-      ]
-    },
-    {
       "id": "03",
       "title": "Beethoven Unfinished Symphonies",
+      "rating": 3,
       "songs": [
         {
           "id": "0bd3d2c4-a62f-4aec-8424-8f52f39fff24",
@@ -55,13 +13,43 @@
       ]
     },
     {
-      "id": "53aa2232-c553-4c7b-837a-0472aea2e206",
-      "title": "Hi",
+      "id": "7f7b56b1-2e59-40c8-a394-98c78848b4a2",
+      "title": "Playlist 2",
+      "rating": 3,
+      "date": "2026-03-24T13:50:06.292Z",
+      "songs": [
+        {
+          "id": "ff625421-672a-4430-9de8-9e99d38c7434",
+          "title": "test",
+          "artist": "test"
+        }
+      ]
+    },
+    {
+      "id": "bc07a0b4-f2ce-4df3-b8c3-812b7aba64b2",
+      "title": "Playlist 3",
+      "rating": 3,
+      "date": "2026-03-24T13:52:03.081Z",
       "songs": []
     },
     {
-      "id": "8dd9a3c0-74a3-44df-bf5e-a45a3db6ea61",
-      "title": "playlist 1",
+      "id": "ce3a6384-18a0-40a0-aa7d-de3cd7ddb4cb",
+      "title": "Playlist 3",
+      "date": "2026-03-24T15:29:54.823Z",
+      "songs": []
+    },
+    {
+      "id": "2858388e-1f1d-4378-a494-c33aea19cd5e",
+      "title": "Playlist 4",
+      "rating": "3",
+      "date": "2026-03-24T15:40:08.169Z",
+      "songs": []
+    },
+    {
+      "id": "ce9cede5-4378-4996-8570-600bb3c96b5e",
+      "title": "Playlist 5",
+      "rating": "4",
+      "date": "2026-03-24T15:40:26.635Z",
       "songs": []
     }
   ]

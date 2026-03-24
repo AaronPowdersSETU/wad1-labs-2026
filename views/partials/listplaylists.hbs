@@ -34,6 +34,13 @@
 
       </p>
 
+      <a href="/playlist/{{id}}"><i
+          class="ui open folder outline black icon"
+        ></i></a>
+	  <a href="/dashboard/deleteplaylist/{{id}}">
+        <i class="ui trash black icon"></i>
+      </a>
+
       {{#if rating}}
     <p>
         <span 
@@ -42,20 +49,9 @@
             data-rating="{{rating}}" 
             data-max-rating="5">
         </span>
-
-        <span style="color: grey; font-size: 90%; font-style: italic">
-            {{highlightPopular rating}}
-        </span>
-
     </p>
 {{/if}}
 
-      <a href="/playlist/{{id}}">
-      <iclass="ui open folder outline black icon">
-      </i></a>
-	  <a href="/dashboard/deleteplaylist/{{id}}">
-        <i class="ui trash black icon"></i>
-      </a>
     </section>
   {{/each}}
 

@@ -24,6 +24,7 @@ addPlaylist(request, response) {
     const newPlaylist = {
       id: uuidv4(),
       title: request.body.title,
+      rating: request.body.rating,
 	  date: timestamp,
       songs: []
     };
