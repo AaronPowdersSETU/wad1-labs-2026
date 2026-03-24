@@ -3,6 +3,7 @@
     {
       "id": "01",
       "title": "Beethoven Sonatas",
+      "rating": 3,
       "songs": [
         {
           "id": "04",
@@ -56,6 +57,11 @@
     {
       "id": "53aa2232-c553-4c7b-837a-0472aea2e206",
       "title": "Hi",
+      "songs": []
+    },
+    {
+      "id": "8dd9a3c0-74a3-44df-bf5e-a45a3db6ea61",
+      "title": "playlist 1",
       "songs": []
     }
   ]
